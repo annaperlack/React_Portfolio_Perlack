@@ -10,8 +10,8 @@ export default function Portfolio() {
                 <div class="card col-3">
                     <img src={cartoonify} class="card-img-top" alt="cartoonify" />
                     <div class="card-body">
-                        <h5 class="card-title">Cartoonify My Pic</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title"><a href="https://github.com/annaperlack/cartoonify-my-pic">Cartoonify My Pic</a></h5>
+                        <p class="card-text">Welcome to Cartoonify My Pic! This application allows you to upload your images and "cartoonify" them with one simple click! It was built using jquery, sequelize, express, and cloudinary.</p>
                         <a href="https://cartoonify-my-pic.herokuapp.com/login" class="btn btn-primary">Try it out!</a>
                     </div>
                     
@@ -19,8 +19,8 @@ export default function Portfolio() {
                 <div class="card col-3">
                     <img src={lazyDater} class="card-img-top" alt="lazy-dater" />
                     <div class="card-body">
-                        <h5 class="card-title">The Lazy Dater</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <h5 class="card-title"><a href="https://github.com/FDJoss/The-Lazy-Dater">The Lazy Dater</a></h5>
+                        <p class="card-text">This website is built with HTML, CSS, and Javascript. It utilizes two APIs, the Cocktail Database and the Movie Database, to pull in cocktail and movie information.</p>
                         <a href="https://fdjoss.github.io/The-Lazy-Dater/" class="btn btn-primary">Try it out!</a>
                     </div>
                     
