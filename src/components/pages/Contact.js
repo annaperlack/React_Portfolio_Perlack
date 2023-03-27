@@ -15,7 +15,7 @@ const ContactForm = () => {
     }
     return (
         <div className="container mt-5">
-            <h2 className="mb-3">Contact Me!</h2>
+            <h1 className="mb-3">Contact Me!</h1>
             <form onSubmit={onSubmit} class="was-validated">
                 <div className="mb-3">
                     <label className="form-label" htmlFor="name">

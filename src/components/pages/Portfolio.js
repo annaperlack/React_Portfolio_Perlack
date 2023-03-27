@@ -7,7 +7,7 @@ export default function Portfolio() {
         <div>
             <h1>Check out my projects!</h1>
             <div className='projects row'>
-                <div class="card col-3">
+                <div class="card col-3 m-3">
                     <img src={cartoonify} class="card-img-top" alt="cartoonify" />
                     <div class="card-body">
                         <h5 class="card-title"><a href="https://github.com/annaperlack/cartoonify-my-pic">Cartoonify My Pic</a></h5>
@@ -16,7 +16,7 @@ export default function Portfolio() {
                     </div>
                     
                 </div>
-                <div class="card col-3">
+                <div class="card col-3 m-3">
                     <img src={lazyDater} class="card-img-top" alt="lazy-dater" />
                     <div class="card-body">
                         <h5 class="card-title"><a href="https://github.com/FDJoss/The-Lazy-Dater">The Lazy Dater</a></h5>
