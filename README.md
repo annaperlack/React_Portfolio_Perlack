@@ -12,7 +12,7 @@ N/A
 
 Click on the link below to view my portfolio page. You can click on each tab to read more about me, view my completed projects, send me a message, or download my resume.
 
-[My Portfolio](https://annaperlack.github.io/Portfolio-Perlack/)
+[My Portfolio](https://annaperlack.github.io/React_Portfolio_Perlack/)
 
 ## Contact
 
