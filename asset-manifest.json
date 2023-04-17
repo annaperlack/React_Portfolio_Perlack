@@ -1,18 +1,19 @@
 {
   "files": {
     "main.css": "/React_Portfolio_Perlack/static/css/main.96db3991.css",
-    "main.js": "/React_Portfolio_Perlack/static/js/main.c546444f.js",
+    "main.js": "/React_Portfolio_Perlack/static/js/main.63ca13c2.js",
     "static/js/787.c1112931.chunk.js": "/React_Portfolio_Perlack/static/js/787.c1112931.chunk.js",
     "static/media/profilepage.png": "/React_Portfolio_Perlack/static/media/profilepage.755e99f7dbdb49ff0795.png",
     "static/media/screenshot-lazy-dater.png": "/React_Portfolio_Perlack/static/media/screenshot-lazy-dater.067576496690436dedd2.png",
     "static/media/photo.png": "/React_Portfolio_Perlack/static/media/photo.0cf0067f9c5e699ee73f.png",
+    "static/media/quizzinator.png": "/React_Portfolio_Perlack/static/media/quizzinator.e42fa9aebec006e829ff.png",
     "index.html": "/React_Portfolio_Perlack/index.html",
     "main.96db3991.css.map": "/React_Portfolio_Perlack/static/css/main.96db3991.css.map",
-    "main.c546444f.js.map": "/React_Portfolio_Perlack/static/js/main.c546444f.js.map",
+    "main.63ca13c2.js.map": "/React_Portfolio_Perlack/static/js/main.63ca13c2.js.map",
     "787.c1112931.chunk.js.map": "/React_Portfolio_Perlack/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96db3991.css",
-    "static/js/main.c546444f.js"
+    "static/js/main.63ca13c2.js"
   ]
 }
