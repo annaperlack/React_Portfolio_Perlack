@@ -29,7 +29,7 @@ export default function Portfolio() {
                 <div class="card col-3 m-3">
                     <img src={quizzinator} class="card-img-top" alt="cartoonify" />
                     <div class="card-body">
-                        <h5 class="card-title"><a href="https://github.com/annaperlack/cartoonify-my-pic">Cartoonify My Pic</a></h5>
+                        <h5 class="card-title"><a href="https://github.com/annaperlack/cartoonify-my-pic">This application was created using React and allows a user to test their trivia knowledge. </a></h5>
                         <p class="card-text"></p>
                         <a href="https://quizzinator.herokuapp.com/" class="btn btn-primary">Try it out!</a>
                     </div>
